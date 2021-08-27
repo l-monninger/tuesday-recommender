@@ -1,7 +1,7 @@
 # club-recommender
 The club-recommender parent repo.
 
-## Recomendded tools and technologies
+## Recomended tools and technologies
 ### Frontend
 - [React](https://reactjs.org/)
 
