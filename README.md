@@ -2,8 +2,14 @@
 The club-recommender parent repo.
 
 ## Recomendded tools and technologies
+### Frontend
+- [React](https://reactjs.org/)
+
+### Backend 
+- 
+
 ### Scraping
-- (scrapy)[https://scrapy.org/]
+- [scrapy](https://scrapy.org/)
 
 ### Data
 - (MongoDB)[https://www.mongodb.com/)
