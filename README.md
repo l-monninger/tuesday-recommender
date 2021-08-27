@@ -6,7 +6,7 @@ The club-recommender parent repo.
 - [React](https://reactjs.org/)
 
 ### Backend 
-- 
+- TODO
 
 ### Scraping
 - [scrapy](https://scrapy.org/)
