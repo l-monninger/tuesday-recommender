@@ -1,3 +1,6 @@
 [submodule "packages/club-example-package"]
 	path = packages/club-example-package
 	url = https://github.com/l-monninger/club-example-package
+[submodule "packages/PGA-Spider-Package"]
+	path = packages/PGA-Spider-Package
+	url = https://github.com/maskrap97/PGA-Spider-Package
